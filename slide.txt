@@ -1,0 +1,73 @@
+slide 1
+ndia’s electricity distribution and production is managed by both central and state-level entities. The production of electricity in India varies by state due to differences in natural resources, industrial activity, and infrastructure. Here's a broad overview of electricity generation by major states, classified by the type of power generation:
+Major States Producing Electricity in India (2023)
+Maharashtra
+Total Installed Capacity: ~45,000 MW
+Key Sources: Thermal (coal), renewable (solar, wind), nuclear
+Gujarat
+Total Installed Capacity: ~39,000 MW
+Key Sources: Thermal (coal), renewable (wind, solar), hydropower
+Tamil Nadu
+Total Installed Capacity: ~34,000 MW
+Key Sources: Thermal (coal), renewable (wind, solar), nuclear
+Uttar Pradesh
+Total Installed Capacity: ~29,000 MW
+Key Sources: Thermal (coal), solar
+Karnataka
+Total Installed Capacity: ~30,000 MW
+Key Sources: Renewable (solar, wind), hydropower, thermal (coal)
+Rajasthan
+Total Installed Capacity: ~30,000 MW
+Key Sources: Renewable (solar, wind), thermal (coal)
+Andhra Pradesh
+Total Installed Capacity: ~25,000 MW
+Key Sources: Thermal (coal), renewable (wind, solar)
+Madhya Pradesh
+Total Installed Capacity: ~25,000 MW
+Key Sources: Thermal (coal), renewable (solar)
+West Bengal
+Total Installed Capacity: ~11,000 MW
+Key Sources: Thermal (coal), hydropower
+Telangana
+Total Installed Capacity: ~17,000 MW
+Key Sources: Thermal (coal), hydropower
+
+
+Top States by Electricity Consumption:
+Maharashtra
+Annual Consumption: ~170-180 TWh (terawatt-hours)
+Key Sectors: Industrial (largest industrial state in India), commercial, and residential
+Uttar Pradesh
+Annual Consumption: ~120-130 TWh
+Key Sectors: Residential (largest population in India), agriculture, and commercial
+Tamil Nadu
+Annual Consumption: ~110-120 TWh
+Key Sectors: Industrial, residential, and commercial
+Gujarat
+Annual Consumption: ~110-120 TWh
+Key Sectors: Industrial (major hub for petrochemicals, pharmaceuticals), commercial, and agricultural
+Karnataka
+Annual Consumption: ~80-90 TWh
+Key Sectors: Industrial, residential, and agricultural (leader in renewable energy consumption)
+Andhra Pradesh
+Annual Consumption: ~70-80 TWh
+Key Sectors: Industrial, agricultural, and residential
+West Bengal
+Annual Consumption: ~55-65 TWh
+Key Sectors: Industrial (manufacturing and heavy industries), residential
+Madhya Pradesh
+Annual Consumption: ~55-60 TWh
+Key Sectors: Agricultural, industrial, and residential
+Rajasthan
+Annual Consumption: ~55-60 TWh
+Key Sectors: Industrial (mining, manufacturing), residential, and agricultural
+Telangana
+Annual Consumption: ~50-55 TWh
+Key Sectors: Agricultural, industrial, and residential
+
+
+
+otal Electricity Consumption in India (2023 estimate):
+India’s total electricity consumption for the year is estimated at 1,500-1,600 TWh (terawatt-hours).
+ 
+ 
