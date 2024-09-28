@@ -1,0 +1,24 @@
+Business Understanding
+    Introduction of Wind data and Energy coming from renewable source in India in may percentage.
+    Objective of the study:
+ 
+Data Understanding
+    Understanding of wind mast data and Wind turbine powercuve data
+
+Data Preparation
+    The mast data is real time data coming from a measurement campaign.
+    Loaded data with the snap
+    Replacing erroneous data (99999)
+
+Data Analysis
+    100m data not working in 2015 range
+    Data availability (heat map)
+    Correlation (Sactter plots)
+    Turbulence Intensity
+    Monthly and Yearly plots to understand trend at different levels /heights
+    Wind shear ( change of wind speed with height)
+
+Data Analysis-Graphs
+    TI plots
+    Monthly
+ 

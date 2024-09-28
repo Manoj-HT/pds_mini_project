@@ -1,0 +1,49 @@
+Slide 0:
+    Title: Wind mast data and power analysis curve
+    by Group 2
+
+Slide 1:
+    Need of Electric energy
+    Propblems with of Conventional energy
+    Wind energy as a form of Renewable Energy
+
+Slide 2:
+    What is a wind mast
+    components of  mast data
+    Objective of the project
+
+Slide 3:
+    What is a power data curve
+    Powerdata curves provided by vendor
+
+Slide 4:
+    Information regarding data obtained
+    Loading the data
+    Noticing the erroneous value, 
+    Cleanse and displaying the 'describe()'
+
+Slide 5:
+    Monthly Graph and
+    Year line graph 
+    Why 100m data not working in 2015 range
+
+Slide 6:
+    Heatmap of data availability
+    Scatterplots at 3 different points
+
+Slide 7:
+    Turbulence Intensity scatter plot
+    Wind shear.
+
+Slide 8:
+    Scatterplots based on opposite directions
+
+Slide 9: 
+    converting Minutebins to Hour bins
+    Plotting histogram
+
+Slide 10:
+    Plotting windrose
+
+Slide 11:
+    overlapping powercurve on Turbulence intensity
